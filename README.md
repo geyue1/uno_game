@@ -9,7 +9,7 @@ pip install rlcard-uno==2.0.2
 pip install torch
 ## the original version rlcard toolkit
 https://github.com/datamllab/rlcard
-## enforcements of rlcard-uno version
+## reenforcement of rlcard-uno version
 The UNO game in the original version of rlcard toolkit only has two players and it can not
 be altered. The rlcard-uno version changes that. UNO game in this version can have multiple players.
 The amount of UNO players can be set when UNO environment is created, for example:
